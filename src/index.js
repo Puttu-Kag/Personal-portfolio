@@ -15,3 +15,8 @@ root.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
+
+// document.querySelector('form').addEventListener('submit', function(event) {
+//   event.preventDefault();
+//   alert('Message sent!');
+// });
